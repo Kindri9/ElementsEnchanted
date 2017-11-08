@@ -1,4 +1,29 @@
-li {
-  display:inline-block;
-  
+.intro_gallery {
+  list-style: none;
+  padding: 0;
+  border: 1px solid red;
+}
+
+.intro_gallery > li {
+  border: 1px solid yellow;
+  height: 175px;
+  width: 175px;
+  background-size: 175px 175px;
+  float: left;
+
+}
+
+.intro_gallery_bracelets {
+  background-image: url(./images/hpbracelets.jpg);
+
+}
+
+.intro_gallery_earrings {
+  background-image: url(./images/scorpioearrings.jpg);
+
+}
+
+.intro_gallery_pendants {
+  background-image: url(./images/limegreenpendant.jpg);
+
 }

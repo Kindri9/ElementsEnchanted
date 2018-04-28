@@ -29,6 +29,22 @@ ul {
 
 }
 
+.random_shit_numero_uno {
+  background-image: url(./images/PurpleFlower.jpg);
+}
+
+.random_shit_numero_dos {
+  background-image: url(./images/OrangeFlower.jpg);
+}
+
+.random_shit_numero_tres {
+  background-image: url(./images/Pansies.jpg);
+}
+
+.random_shit_numero_cuatro {
+  background-image: url(./images/pinkandwhiteflower.jpg);
+}
+
 .clear {
   clear: both;
 }
@@ -79,7 +95,7 @@ ul {
 
 
 
-/*.intro_gallery_bracelets {
+.intro_gallery_bracelets {
   background-image: url(./images/hpbracelets.jpg);
 
 }
@@ -97,4 +113,4 @@ ul {
 .intro_gallery_pendants {
   background-image: url(./images/volcanopendant.jpg);
 
-}*/
+}
